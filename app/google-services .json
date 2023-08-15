@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931051271476",
+    "project_id": "exercisesgym-f07f3",
+    "storage_bucket": "exercisesgym-f07f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931051271476:android:8bb1cda6a722fbf1402161",
+        "android_client_info": {
+          "package_name": "com.example.exercisesgym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931051271476-432f8oj5hv4gl0fv4jjbacvkpsjv7suh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCwcdR0RMJvGyVElki3yxv-NxOVRjoaP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931051271476-432f8oj5hv4gl0fv4jjbacvkpsjv7suh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
